@@ -32,4 +32,4 @@ Q. What is the difference between **preventDefault() and stopPropagation()** met
 5. Answer -->
 preventDefault() website refress stop use funtion (e) .
 
-stopPropagation() means Stop the event right here and don’t let it go up to the parent elements .
+stopPropagation() means Stop the event right here  don’t let it go up to the parent elements .
